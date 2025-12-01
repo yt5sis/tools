@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yt5s/sitemap.xml
+
+Sitemap: https://yt5sis.github.io/tools/
